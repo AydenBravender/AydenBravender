@@ -1,8 +1,15 @@
-##  Hi, I’m Ayden Bravender 
-- I’m interested in robotics, computer vision and machine learning 💻
-- I’m currently learning about Tensorflow and OpenCV
-- I’m looking to collaborate on any software/robotics projects
-### Contact:
+#  Hi, I’m Ayden Bravender 
+- I’m passionate about robotics, computer vision, and machine learning! 💻
+- Currently, I'm honing my coding skills in TensorFlow, MediaPipe, and OpenCV. 🚀
+- I love tackling complex problems and finding **innovative solutions** through programming. 🧠
+- Exploring the intersection of AI and real-world applications is where I thrive. 🌐
+
+## Experience:
+- I volunteered as a High School Intern at Youreka Edmonton, where I conducted research on the correlation between household income and both physical and mental health.
+- As the CEO Assistant at Lybroco Rentals, I gained valuable mechanical experience, including tasks like replacing hydraulic hoses.
+- Currently, I'm deeply engrossed in several robotic projects that involve cutting-edge computer vision techniques! 👁️‍🗨️💡
+
+## Contact:
 You can reach out to me through [Linkedin](https://www.linkedin.com/in/aydenbravender?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BA0GsrIrVSZCHjTkJhTmtAg%3D%3D) or [Gmail](mailto:aydenbravender@gmail.com)
 
 <!---
