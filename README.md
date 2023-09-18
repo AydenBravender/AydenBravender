@@ -5,7 +5,7 @@
 - Exploring the intersection of AI and real-world applications is where I thrive. 🌐
 
 ## Experience:
-- I volunteered as a High School Intern at Youreka Edmonton, where I conducted research on the correlation between household income and both physical and mental health.
+- I was selected as a High School Intern at Youreka Edmonton, where I conducted research on the correlation between household income and both physical and mental health.
 - As the CEO Assistant at Lybroco Rentals, I gained valuable mechanical experience, including tasks like replacing hydraulic hoses.
 - Currently, I'm deeply engrossed in several robotic projects that involve cutting-edge computer vision techniques! 👁️‍🗨️💡
 
