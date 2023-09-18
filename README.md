@@ -10,7 +10,7 @@
 - Currently, I'm deeply engrossed in several robotic projects that involve cutting-edge computer vision techniques! 👁️‍🗨️💡
 
 ## Contact:
-You can reach out to me through [Linkedin](https://www.linkedin.com/in/aydenbravender?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BA0GsrIrVSZCHjTkJhTmtAg%3D%3D) or [Gmail](mailto:aydenbravender@gmail.com)
+You can reach out to me through [Linkedin](linkedin.com/in/aydenbravender) or [Gmail](mailto:aydenbravender@gmail.com)
 
 <!---
 AydenBravender/AydenBravender is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
