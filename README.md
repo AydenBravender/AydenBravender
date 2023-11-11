@@ -34,9 +34,11 @@ Hi, I’m Ayden Bravender
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![anaconda](https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
     ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=orange)
     ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+    
 
 <br>
 
@@ -46,6 +48,7 @@ Hi, I’m Ayden Bravender
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
     ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
     ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+    ![Microsoft](https://img.shields.io/badge/edge-0078D7.svg?&style=for-the-badge&logo=microsoft-edge&logoColor=white)
 
 </p>
 
