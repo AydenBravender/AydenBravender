@@ -1,4 +1,12 @@
-#  Hi, I’m Ayden Bravender 
+<h1 align="center">
+Hi, I’m Ayden Bravender 
+</h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=32&center=true&vCenter=true&width=600&height=100&lines=Ayden+Bravender;Self-taught+Programmer;Computer+Vision+Enthusiast;AI+And+ML;Active+Learner/Researcher;Love+to+learn+new+skills"></a>
+</p>
+
+
 - I’m passionate about robotics, computer vision, and machine learning! 💻
 - Currently, I'm honing my coding skills in TensorFlow, MediaPipe, and OpenCV. 🚀
 - I love tackling complex problems and finding **innovative solutions** through programming. 🧠
