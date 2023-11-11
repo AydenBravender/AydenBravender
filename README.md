@@ -61,6 +61,17 @@ Hi, I’m Ayden Bravender
 </a>
 </p>
 
+### My Projects:
+<p align="center">
+<a href="https://github.com/AydenBravender/Autonomous-Computer-Vision-Car">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AydenBravender&repo=Autonomous-Computer-Vision-Car&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/AydenBravender/Mediapipe_Door_Opener">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AydenBravender&repo=Mediapipe_Door_Opener&theme=tokyonight" />
+</a>
+</p>
+
 
 
 
