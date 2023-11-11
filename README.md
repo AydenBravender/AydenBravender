@@ -6,7 +6,7 @@ Hi, I’m Ayden Bravender
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=32&center=true&vCenter=true&width=600&height=100&lines=Ayden+Bravender;Self-taught+Programmer;Computer+Vision+Enthusiast;AI+And+ML;Active+Learner/Researcher;Love+to+learn+new+skills"></a>
 </p>
 
-
+## Overview
 - I’m passionate about robotics, computer vision, and machine learning! 💻
 - Currently, I'm honing my coding skills in TensorFlow, MediaPipe, and OpenCV. 🚀
 - I love tackling complex problems and finding **innovative solutions** through programming. 🧠
@@ -20,7 +20,7 @@ Hi, I’m Ayden Bravender
 
 <p align="center">
 
-# Skills
+## Skills
 
 - **Languages**:
     
@@ -35,6 +35,7 @@ Hi, I’m Ayden Bravender
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+    ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=orange)
     ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
 <br>
@@ -42,10 +43,23 @@ Hi, I’m Ayden Bravender
 - **Extras**:
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
+    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+    ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+    ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 </p>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/azizovrafael">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AydenBravender&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AydenBravender&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
+
+
+
 
 
 
