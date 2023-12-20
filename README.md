@@ -3,7 +3,7 @@ Hi, I’m Ayden Bravender
 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=32&center=true&vCenter=true&width=600&height=100&lines=Ayden+Bravender;IB+High+School+Student;Software+Engineer+In+The+Making;Self-taught+Programmer;Computer+Vision+Enthusiast;AI+And+ML;Active+Learner/Researcher;Always+learning+new+skills"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=32&center=true&vCenter=true&width=600&height=100&lines=Ayden+Bravender;IB+High+School+Student;Software+Engineer+In+The+Making;Self-taught+Programmer;Computer+Vision+Enthusiast;AI+And+ML;Active+Learner/Researcher;Always+learning+new+skills;Software+'+'+hardware+integration;Robotics;Software+Autonomy+Team+Member+at+SPEAR></a>
 </p>
 
 ## Overview
@@ -16,6 +16,8 @@ Hi, I’m Ayden Bravender
 - I was selected as a High School Intern at Youreka Edmonton, where I conducted research on the correlation between household income and both physical and mental health.
 - As the CEO Assistant at Lybroco Rentals, I gained valuable mechanical experience, including tasks like replacing hydraulic hoses.
 - Currently, I am an autonomy software team member of Space Exploration Alberta Robotics, where we are designing a rover that uses Visual SLAM, Extended Kalman filters and GNSS to navigate across Utah's rocky terrain autonomously
+- I am also working on an afforable soft robotics platform for search and rescue applications in earthquakes
+- Finally I am working on my code to compete in this years FBLA coding and programming contest
 
 
 <p align="center">
