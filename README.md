@@ -19,6 +19,9 @@ Hi, I’m Ayden Bravender
 - I am also working on an afforable soft robotics platform for search and rescue applications in earthquakes
 - Finally I am working on my code to compete in this years FBLA coding and programming contest
 
+## Coding Contests:
+I have had the oppurtunity to compete in a variety of programming contests such as the Canadian Computing Challenge (CCC) and the University of Alberta Programming Contest (UAPC) and the FBLA Programming & Coding divison where I designed a GUI and presented the finished product to a panel of judges.
+
 
 <p align="center">
 
