@@ -28,9 +28,16 @@ I have had the oppurtunity to compete in a variety of programming contests such 
 ## Skills
 
 - **Languages**:
+
+  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![Arduino](https://img.shields.io/badge/Arduino%20-%2300599C.svg?style=for-the-badge&logo=arduino&logoColor=white)
+
+- **Languages I am working on**:
     
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![C](https://img.shields.io/badge/C%20-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![Assembly](https://img.shields.io/badge/Assembly%20-%2300599C.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
+
 <br>
 
 - **Softwares and Tools**:
