@@ -91,6 +91,7 @@ I have had the oppurtunity to compete in a variety of programming contests such 
 
 
 ## Contact:
+Here is my [Linktree](https://linktr.ee/aydenbravender)
 You can reach out to me through [Linkedin](linkedin.com/in/aydenbravender) or [Gmail](mailto:aydenbravender@gmail.com)
 
 <!---
