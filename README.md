@@ -16,7 +16,8 @@ Hi, I’m Ayden Bravender
 - I was selected as a High School Intern at Youreka Edmonton, where I conducted research on the correlation between household income and both physical and mental health.
 - As the CEO Assistant at Lybroco Rentals, I gained valuable mechanical experience, including tasks like replacing hydraulic hoses.
 - Currently, I am the software team lead of Space Exploration Alberta Robotics, where we are designing a rover that uses Visual SLAM, Extended Kalman filters and GNSS to navigate across Utah's rocky terrain autonomously
-- I am also working on an afforable soft robotics platform for search and rescue applications in earthquakes
+- I won bronze at a regional science fair for my work on an afforable soft robotics platform for search and rescue applications in earthquakes
+- I am working on an autonomous boat that cleans water of top floating algae.
 
 ## Coding Contests:
 I have had the oppurtunity to compete in a variety of programming contests such as the Canadian Computing Challenge (CCC), the University of Alberta Programming Contest (UAPC) and the Future Business Leaders of America (FBLA) Programming & Coding divison where I designed a GUI and presented the finished product to a panel of judges. I also won Bronze in the senior category in the Edmonton Regional Science Fair (ERSF) for my research on soft robotics being used in search and rescue applications.
