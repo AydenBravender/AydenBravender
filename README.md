@@ -56,11 +56,9 @@ I have had the oppurtunity to compete in a variety of programming contests such 
     ![CUDA](https://img.shields.io/badge/CUDA%20-%23000000.svg?style=for-the-badge&logo=nvidia&logoColor=green)
     ![MoveIt](https://img.shields.io/badge/MoveIt%20-%232F75B5.svg?style=for-the-badge&logo=moveit&logoColor=white)
     ![PyPI](https://img.shields.io/badge/PyPI%20-%233776B0.svg?style=for-the-badge&logo=pypi&logoColor=white)
+    ![Docker](https://img.shields.io/badge/Docker%20-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+    ![TensorFlow](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-
-
-    
-    
 
 <br>
 
