@@ -32,6 +32,7 @@ I have had the oppurtunity to compete in a variety of programming contests such 
   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
   ![Arduino](https://img.shields.io/badge/Arduino%20-%2300599C.svg?style=for-the-badge&logo=arduino&logoColor=white)
   ![JavaScript](https://shields.io/badge/JavaScript%20-FCC624.svg?style=for-the-badge&logo=javascript&logoColor=white)
+  ![HTML](https://shields.io/badge/HTML%20-e34c26.svg?style=for-the-badge&logo=html&logoColor=white)
 
 - **Languages I am working on**:
     
