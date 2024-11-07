@@ -32,7 +32,8 @@ I have had the oppurtunity to compete in a variety of programming contests such 
   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
   ![Arduino](https://img.shields.io/badge/Arduino%20-%2300599C.svg?style=for-the-badge&logo=arduino&logoColor=white)
   ![JavaScript](https://shields.io/badge/JavaScript%20-FCC624.svg?style=for-the-badge&logo=javascript&logoColor=white)
-  ![HTML](https://shields.io/badge/HTML%20-e34c26.svg?style=for-the-badge&logo=html&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 
 - **Languages I am working on**:
     
@@ -52,6 +53,12 @@ I have had the oppurtunity to compete in a variety of programming contests such 
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
     ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=orange)
     ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+    ![CUDA](https://img.shields.io/badge/CUDA%20-%23000000.svg?style=for-the-badge&logo=nvidia&logoColor=green)
+    ![MoveIt](https://img.shields.io/badge/MoveIt%20-%232F75B5.svg?style=for-the-badge&logo=moveit&logoColor=white)
+    ![PyPI](https://img.shields.io/badge/PyPI%20-%233776B0.svg?style=for-the-badge&logo=pypi&logoColor=white)
+
+
+
     
     
 
@@ -82,8 +89,8 @@ I have had the oppurtunity to compete in a variety of programming contests such 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AydenBravender&repo=Autonomous-Computer-Vision-Car&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/AydenBravender/Mediapipe_Door_Opener">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AydenBravender&repo=Mediapipe_Door_Opener&theme=tokyonight" />
+<a href="https://github.com/AydenBravender/Color_aruco">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AydenBravender&repo=color_aruco&theme=tokyonight" />
 </a>
 </p>
 
