@@ -20,7 +20,13 @@ Hi, I’m Ayden Bravender
 - I am working on an autonomous boat that cleans water of top floating algae.
 
 ## Coding Contests:
-I have had the oppurtunity to compete in a variety of programming contests such as the Canadian Computing Challenge (CCC), the University of Alberta Programming Contest (UAPC) and the Future Business Leaders of America (FBLA) Programming & Coding divison where I designed a GUI and presented the finished product to a panel of judges. I also won Bronze in the senior category in the Edmonton Regional Science Fair (ERSF) for my research on soft robotics being used in search and rescue applications. Finally my team won third at the saskatoon NasaSpaceApps, where we utilized data from the Apollo missions to detect seismic quakes within ± 295 seconds.
+I have had the oppurtunity to compete in a variety of programming contests such as:
+- the Canadian Computing Challenge (CCC)
+- the University of Alberta Programming Contest (UAPC)
+- the Future Business Leaders of America (FBLA) Programming & Coding divison where I designed a GUI and presented the finished product to a panel of judges.
+- I won Bronze in the senior category in the Edmonton Regional Science Fair (ERSF) for my research on soft robotics being used in search and rescue applications.
+- My team won third at the saskatoon NasaSpaceApps, where we utilized data from the Apollo missions to detect seismic quakes within ± 295 seconds.
+- I won Gold in Canada's largest neural tech hackathon, Nathacks.
 
 
 <p align="center">
