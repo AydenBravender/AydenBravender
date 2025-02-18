@@ -3,7 +3,7 @@ Hi, I’m Ayden Bravender
 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=32&center=true&vCenter=true&width=600&height=100&lines=Ayden+Bravender;IB+High+School+Student;Software+Engineer+In+The+Making;Self-taught+Programmer;Computer+Vision+Enthusiast;AI+And+ML;Active+Learner/Researcher;Always+learning+new+skills;Software+and+Hardware;Robotics;Software+Team+Member+at+SPEAR"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=32&center=true&vCenter=true&width=600&height=100&lines=Ayden+Bravender;IB+High+School+Student;Software+Engineer+In+The+Making;Self-taught+Programmer;Computer+Vision+Enthusiast;AI+And+ML;Active+Learner/Researcher;Always+learning+new+skills;Software+and+Hardware;Robotics;Software+Lead+at+SPEAR"></a>
 </p>
 
 ## Overview
@@ -17,7 +17,6 @@ Hi, I’m Ayden Bravender
 - As the CEO Assistant at Lybroco Rentals, I gained valuable mechanical experience, including tasks like replacing hydraulic hoses.
 - Currently, I am the software team lead of Space Exploration Alberta Robotics, where we are designing a rover that uses Visual SLAM, Extended Kalman filters and GNSS to navigate across Utah's rocky terrain autonomously
 - I won bronze at a regional science fair for my work on an afforable soft robotics platform for search and rescue applications in earthquakes
-- I am working on an autonomous boat that cleans water of top floating algae.
 
 ## Coding Contests:
 I have had the oppurtunity to compete in a variety of programming contests such as:
